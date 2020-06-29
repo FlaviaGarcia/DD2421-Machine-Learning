@@ -1,1 +1,1 @@
-This is repository of the completed Machine Learning course (DD2421) of KTH Royal Institute of Technology. In this course three labs were done in Python. Each lab has a pdf document indicating what was needed to be done. 
+This is repository of the completed Machine Learning course (DD2421) at KTH Royal Institute of Technology. In this course three labs were done in Python. Each lab has a pdf document indicating what was needed to be done. 
